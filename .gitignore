@@ -1,0 +1,14 @@
+# .gitignore
+
+.DS_Store
+
+# ignore IDE
+.vscode
+
+# ignore obj and build
+obj
+build
+
+# ignore examples
+playground.scat
+test.scat
